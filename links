@@ -1,0 +1,14 @@
+#This is an official webpage from rstudio.com where few tips and materials are provided. 
+#Personally, I think the first 2 resources in the lsit are the most engaging.
+https://education.rstudio.com/learn/beginner/
+
+
+#This is materials put together by RLadies Melburne, just go through the topics to jump from one to another.
+#It is really well done, and the example uses data from Titanic, which is my fav dataset for beginners.
+https://resbaz.github.io/RLadies-Intro-R-workshop/
+
+#This is Rladies Bari material created to give a first understanding of R and RStudio as IDE 
+https://github.com/rladies/meetup-presentations_bari/blob/master/201901%20-%20Gen/PrimiPassiRStudio.pdf
+
+#This is again RLadies Bari material from a workshop offered by Rita Cosoli about Data Visualization for beginners
+https://github.com/sariac/RLadiesBari_event_January2020
